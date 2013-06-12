@@ -53,6 +53,16 @@ $messages['de'] = array(
 	'quickresponse-title' => 'Hier ist dein QR-Code!',
 );
 
+/** Spanish (español)
+ * @author Miguel2706
+ */
+$messages['es'] = array(
+	'quickresponse-desc' => 'Genera un código QR de la URL de la página actual',
+	'quickresponse-text' => 'Código QR',
+	'quickresponse-tooltip' => 'Generar un código QR para la URL actual',
+	'quickresponse-title' => 'Aquí está tu código QR!',
+);
+
 /** Estonian (eesti)
  * @author AivoK
  */
@@ -102,6 +112,14 @@ $messages['ja'] = array(
 	'quickresponse-title' => '生成した QR コードはこちらです',
 );
 
+/** Luxembourgish (Lëtzebuergesch)
+ * @author Robby
+ */
+$messages['lb'] = array(
+	'quickresponse-text' => 'QR-Code',
+	'quickresponse-title' => 'Hei ass Äre QR-Code!',
+);
+
 /** Macedonian (македонски)
  * @author Bjankuloski06
  */
@@ -140,6 +158,16 @@ $messages['pt-br'] = array(
 	'quickresponse-text' => 'código QR',
 	'quickresponse-tooltip' => 'Gera um código QR para a URL atual',
 	'quickresponse-title' => 'Aqui está seu código QR!',
+);
+
+/** Romanian (română)
+ * @author Minisarm
+ */
+$messages['ro'] = array(
+	'quickresponse-desc' => 'Generează un cod QR pentru adresa URL a paginii curente',
+	'quickresponse-text' => 'Cod QR',
+	'quickresponse-tooltip' => 'Generează un cod QR pentru adresa URL curentă',
+	'quickresponse-title' => 'Iată codul QR!',
 );
 
 /** tarandíne (tarandíne)
