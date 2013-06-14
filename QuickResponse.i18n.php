@@ -117,6 +117,7 @@ $messages['ja'] = array(
  */
 $messages['lb'] = array(
 	'quickresponse-text' => 'QR-Code',
+	'quickresponse-tooltip' => 'E QR-Code fir déi aktuell URL generéieren',
 	'quickresponse-title' => 'Hei ass Äre QR-Code!',
 );
 
@@ -197,4 +198,13 @@ $messages['tr'] = array(
 	'quickresponse-text' => 'Kare kod',
 	'quickresponse-tooltip' => 'Mevcut URL için kare kod oluştur',
 	'quickresponse-title' => 'Kare kodunuz işte burada!',
+);
+
+/** Volapük (Volapük)
+ * @author Malafaya
+ */
+$messages['vo'] = array(
+	'quickresponse-text' => "Kot 'QR'",
+	'quickresponse-tooltip' => "Jafön koti 'QR' ela URL anuik",
+	'quickresponse-title' => "Ekö kot 'QR' olik!",
 );
