@@ -31,12 +31,22 @@ $messages['qqq'] = array(
 	'quickresponse-title' => 'The title of the dialog box',
 );
 
+/** Asturian (asturianu)
+ * @author Xuacu
+ */
+$messages['ast'] = array(
+	'quickresponse-desc' => 'Xenera un códigu QR pa la URL de la páxina actual',
+	'quickresponse-text' => 'Códigu QR',
+	'quickresponse-tooltip' => 'Xenerar un códigu QR pa la URL actual',
+	'quickresponse-title' => "¡Esti ye'l so códigu QR!",
+);
+
 /** Bengali (বাংলা)
  * @author Aftab1995
  * @author Bellayet
  */
 $messages['bn'] = array(
-	'quickresponse-desc' => 'বর্তমান পাতার ইউআরএল এর জন্য কিউআর কোড তৈরি করে',
+	'quickresponse-desc' => 'বর্তমান পাতার ইউআরএল এর জন্য কিউআর কোড তৈরি',
 	'quickresponse-text' => 'কিউআর কোড',
 	'quickresponse-tooltip' => 'বর্তমান ইউআরএল এর জন্য একটি কিউআর কোড তৈরি করো',
 	'quickresponse-title' => 'এই হল আপনার কিউআর কোড!',
@@ -116,6 +126,7 @@ $messages['ja'] = array(
  * @author Robby
  */
 $messages['lb'] = array(
+	'quickresponse-desc' => "Generéiert e QR-Code fir d'URL vun der aktueller Säit",
 	'quickresponse-text' => 'QR-Code',
 	'quickresponse-tooltip' => 'E QR-Code fir déi aktuell URL generéieren',
 	'quickresponse-title' => 'Hei ass Äre QR-Code!',
@@ -179,6 +190,16 @@ $messages['roa-tara'] = array(
 	'quickresponse-text' => 'Codece QR',
 	'quickresponse-tooltip' => "Genere 'nu codece QR pe l'URL de mò",
 	'quickresponse-title' => "Aqquà ste 'u codece QR tune!",
+);
+
+/** Swedish (svenska)
+ * @author Jopparn
+ */
+$messages['sv'] = array(
+	'quickresponse-desc' => 'Genererar en QR-kod för URL-adressen för den aktuella sidan',
+	'quickresponse-text' => 'QR-kod',
+	'quickresponse-tooltip' => 'Generera en QR-kod för den aktuella URL-adressen',
+	'quickresponse-title' => 'Här är din QR-kod!',
 );
 
 /** Telugu (తెలుగు)
