@@ -152,6 +152,14 @@ $messages['ms'] = array(
 	'quickresponse-title' => 'Inilah kod QR anda!',
 );
 
+/** Dutch (Nederlands)
+ * @author Siebrand
+ */
+$messages['nl'] = array(
+	'quickresponse-text' => 'QR-code',
+	'quickresponse-title' => 'Hier is uw QR-code!',
+);
+
 /** Portuguese (português)
  * @author GoEThe
  */
