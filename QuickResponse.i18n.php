@@ -156,7 +156,9 @@ $messages['ms'] = array(
  * @author Siebrand
  */
 $messages['nl'] = array(
+	'quickresponse-desc' => 'Maakt een QR-code voor de URL van de huidige pagina',
 	'quickresponse-text' => 'QR-code',
+	'quickresponse-tooltip' => 'Maak een QR-code voor de huidige URL',
 	'quickresponse-title' => 'Hier is uw QR-code!',
 );
 
