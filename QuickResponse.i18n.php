@@ -231,6 +231,16 @@ $messages['tr'] = array(
 	'quickresponse-title' => 'Kare kodunuz işte burada!',
 );
 
+/** Ukrainian (українська)
+ * @author Andriykopanytsia
+ */
+$messages['uk'] = array(
+	'quickresponse-desc' => 'Генерує QR-код для URL-адреси поточної сторінки',
+	'quickresponse-text' => 'QR-код',
+	'quickresponse-tooltip' => 'Генерувати QR-код для поточної URL-адреси',
+	'quickresponse-title' => 'Ось QR-код!',
+);
+
 /** Volapük (Volapük)
  * @author Malafaya
  */
