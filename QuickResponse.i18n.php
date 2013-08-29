@@ -162,6 +162,16 @@ $messages['nl'] = array(
 	'quickresponse-title' => 'Hier is uw QR-code!',
 );
 
+/** Occitan (occitan)
+ * @author Cedric31
+ */
+$messages['oc'] = array(
+	'quickresponse-desc' => 'Genèra un còde QR per l’URL de la pagina actuala',
+	'quickresponse-text' => 'Còde QR',
+	'quickresponse-tooltip' => 'Generar un còde QR per l’URL actuala',
+	'quickresponse-title' => 'Aquí avètz vòstre còde QR !',
+);
+
 /** Portuguese (português)
  * @author GoEThe
  */
