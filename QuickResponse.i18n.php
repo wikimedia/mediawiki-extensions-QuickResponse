@@ -122,6 +122,16 @@ $messages['ja'] = array(
 	'quickresponse-title' => '生成した QR コードはこちらです',
 );
 
+/** Korean (한국어)
+ * @author Kwj2772
+ */
+$messages['ko'] = array(
+	'quickresponse-desc' => '현재 문서의 URL에 대해 QR 코드를 생성합니다.',
+	'quickresponse-text' => 'QR 코드',
+	'quickresponse-tooltip' => '현재 URL에 대한 QR 코드 생성',
+	'quickresponse-title' => 'QR 코드가 여기 있습니다!',
+);
+
 /** Luxembourgish (Lëtzebuergesch)
  * @author Robby
  */
