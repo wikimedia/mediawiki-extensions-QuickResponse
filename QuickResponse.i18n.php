@@ -124,9 +124,10 @@ $messages['ja'] = array(
 
 /** Korean (한국어)
  * @author Kwj2772
+ * @author 아라
  */
 $messages['ko'] = array(
-	'quickresponse-desc' => '현재 문서의 URL에 대해 QR 코드를 생성합니다.',
+	'quickresponse-desc' => '현재 문서의 URL에 대해 QR 코드를 생성합니다',
 	'quickresponse-text' => 'QR 코드',
 	'quickresponse-tooltip' => '현재 URL에 대한 QR 코드 생성',
 	'quickresponse-title' => 'QR 코드가 여기 있습니다!',
@@ -220,6 +221,16 @@ $messages['roa-tara'] = array(
 	'quickresponse-text' => 'Codece QR',
 	'quickresponse-tooltip' => "Genere 'nu codece QR pe l'URL de mò",
 	'quickresponse-title' => "Aqquà ste 'u codece QR tune!",
+);
+
+/** Russian (русский)
+ * @author Okras
+ */
+$messages['ru'] = array(
+	'quickresponse-desc' => 'Генерирует QR-код для URL-адреса текущей страницы',
+	'quickresponse-text' => 'QR-код',
+	'quickresponse-tooltip' => 'Сгенерировать QR-код для текущего URL-адреса',
+	'quickresponse-title' => 'Вот ваш QR-код!',
 );
 
 /** Swedish (svenska)
