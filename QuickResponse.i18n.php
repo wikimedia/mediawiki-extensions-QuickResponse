@@ -280,3 +280,13 @@ $messages['vo'] = array(
 	'quickresponse-tooltip' => "Jafön koti 'QR' ela URL anuik",
 	'quickresponse-title' => "Ekö kot 'QR' olik!",
 );
+
+/** Simplified Chinese (中文（简体）‎)
+ * @author Yfdyh000
+ */
+$messages['zh-hans'] = array(
+	'quickresponse-desc' => '对当前页面的URL生成一个QR码',
+	'quickresponse-text' => 'QR码',
+	'quickresponse-tooltip' => '对当前的URL生成一个QR码',
+	'quickresponse-title' => '这是你要的QR码！',
+);
