@@ -63,6 +63,16 @@ $messages['de'] = array(
 	'quickresponse-title' => 'Hier ist dein QR-Code!',
 );
 
+/** Lower Sorbian (dolnoserbski)
+ * @author Michawiki
+ */
+$messages['dsb'] = array(
+	'quickresponse-desc' => 'Twóri QR-kod za URL aktualnego boka',
+	'quickresponse-text' => 'QR-kode',
+	'quickresponse-tooltip' => 'QR-kod za aktualny URL twóriś',
+	'quickresponse-title' => 'How jo twój QR-kode!',
+);
+
 /** Spanish (español)
  * @author Miguel2706
  */
@@ -100,6 +110,16 @@ $messages['gl'] = array(
 	'quickresponse-text' => 'Código QR',
 	'quickresponse-tooltip' => 'Xerar un código QR para o enderezo URL actual',
 	'quickresponse-title' => 'Aquí está o seu código QR!',
+);
+
+/** Upper Sorbian (hornjoserbsce)
+ * @author Michawiki
+ */
+$messages['hsb'] = array(
+	'quickresponse-desc' => 'Twori QR-kod za URL aktualneje strony',
+	'quickresponse-text' => 'QR-kod',
+	'quickresponse-tooltip' => 'QR-kod za aktualny URL tworić',
+	'quickresponse-title' => 'Tu je twój QR-kod!',
 );
 
 /** Italian (italiano)
