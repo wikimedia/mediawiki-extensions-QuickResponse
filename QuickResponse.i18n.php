@@ -91,6 +91,15 @@ $messages['et'] = array(
 	'quickresponse-tooltip' => 'Loo praeguse URL-i QR-kood',
 );
 
+/** Persian (فارسی)
+ * @author Armin1392
+ */
+$messages['fa'] = array(
+	'quickresponse-text' => 'کد کیو‌آر',
+	'quickresponse-tooltip' => 'تولید کد کیوآر برای يوآر‌ال فعلی',
+	'quickresponse-title' => 'کد کیو‌آر شما این است!',
+);
+
 /** French (français)
  * @author Gomoko
  * @author Sherbrooke
