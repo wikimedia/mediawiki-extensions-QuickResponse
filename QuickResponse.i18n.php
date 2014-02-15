@@ -212,6 +212,13 @@ $messages['oc'] = array(
 	'quickresponse-title' => 'Aquí avètz vòstre còde QR !',
 );
 
+/** Polish (polski)
+ * @author Chrumps
+ */
+$messages['pl'] = array(
+	'quickresponse-text' => 'Kod QR',
+);
+
 /** Portuguese (português)
  * @author GoEThe
  */
