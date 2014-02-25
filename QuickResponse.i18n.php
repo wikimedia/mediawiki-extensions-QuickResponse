@@ -95,6 +95,7 @@ $messages['et'] = array(
  * @author Armin1392
  */
 $messages['fa'] = array(
+	'quickresponse-desc' => 'تولید یک کد کیوآر برای یوآر‌ال آدرس فعلی',
 	'quickresponse-text' => 'کد کیو‌آر',
 	'quickresponse-tooltip' => 'تولید کد کیوآر برای يوآر‌ال فعلی',
 	'quickresponse-title' => 'کد کیو‌آر شما این است!',
