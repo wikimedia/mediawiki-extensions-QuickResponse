@@ -3,22 +3,22 @@
 QuickResponse Extension for MediaWiki.
 
 @license MIT License
-@version 0.2
 */
 
 $wgExtensionCredits[ 'other' ][] = array(
     'path' => __FILE__,
     'name' => 'QuickResponse',
-    'version' => '0.2',
+    'version' => '0.3.0',
     'url' => '',
     'author' => 'Konarak Ratnakar',
     'descriptionmsg' => 'quickresponse-desc'
 );
 
+$wgMessagesDirs['QuickResponse'] = __DIR__ . '/i18n';
 $wgExtensionMessagesFiles[ 'QuickResponse' ] = __DIR__ . '/QuickResponse.i18n.php';
 
 $wgResourceModules[ 'QuickResponse' ] = array(
-    'scripts' => array('resources/qrcode.js', 
+    'scripts' => array('resources/qrcode.js',
                        'resources/jquery.qrcode.js',
                        'resources/quickresponse.js'
                        ),
