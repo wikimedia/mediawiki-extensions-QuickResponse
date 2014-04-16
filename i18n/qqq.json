@@ -1,12 +1,12 @@
 {
-    "@metadata": {
-        "authors": [
-            "Shirayuki",
-            "konarak"
-        ]
-    },
-    "quickresponse-desc": "{{desc|name=Quick Response|url=http://www.mediawiki.org/wiki/Extension:QuickResponse}}",
-    "quickresponse-text": "Text for the link in the toolbox",
-    "quickresponse-tooltip": "Text for the link tooltip",
-    "quickresponse-title": "The title of the dialog box"
+	"@metadata": {
+		"authors": [
+			"Shirayuki",
+			"konarak"
+		]
+	},
+	"quickresponse-desc": "{{desc|name=Quick Response|url=http://www.mediawiki.org/wiki/Extension:QuickResponse}}",
+	"quickresponse-text": "Text for the link in the toolbox",
+	"quickresponse-tooltip": "Text for the link tooltip",
+	"quickresponse-title": "The title of the dialog box"
 }

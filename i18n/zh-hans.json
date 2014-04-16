@@ -1,11 +1,11 @@
 {
-    "@metadata": {
-        "authors": [
-            "Yfdyh000"
-        ]
-    },
-    "quickresponse-desc": "对当前页面的URL生成一个QR码",
-    "quickresponse-text": "QR码",
-    "quickresponse-tooltip": "对当前的URL生成一个QR码",
-    "quickresponse-title": "这是你要的QR码！"
+	"@metadata": {
+		"authors": [
+			"Yfdyh000"
+		]
+	},
+	"quickresponse-desc": "对当前页面的URL生成一个QR码",
+	"quickresponse-text": "QR码",
+	"quickresponse-tooltip": "对当前的URL生成一个QR码",
+	"quickresponse-title": "这是你要的QR码！"
 }
