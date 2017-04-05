@@ -6,5 +6,6 @@
 	},
 	"quickresponse-desc": "Генэруе QR-код для URL-адрасу цяперашняй старонкі",
 	"quickresponse-text": "QR-код",
-	"quickresponse-tooltip": "Генэруе QR-код для цяперашняга URL-адрасу"
+	"quickresponse-tooltip": "Генэруе QR-код для цяперашняга URL-адрасу",
+	"quickresponse-title": "Вось ваш QR-код!"
 }
