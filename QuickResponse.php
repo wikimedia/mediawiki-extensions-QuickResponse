@@ -15,7 +15,6 @@ $wgExtensionCredits[ 'other' ][] = array(
 );
 
 $wgMessagesDirs['QuickResponse'] = __DIR__ . '/i18n';
-$wgExtensionMessagesFiles[ 'QuickResponse' ] = __DIR__ . '/QuickResponse.i18n.php';
 
 $wgResourceModules[ 'QuickResponse' ] = array(
     'scripts' => array('resources/qrcode.js',
