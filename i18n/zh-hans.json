@@ -5,8 +5,8 @@
 			"Liuxinyu970226"
 		]
 	},
-	"quickresponse-desc": "对当前页面的URL生成一个二维码",
-	"quickresponse-text": "二维码",
-	"quickresponse-tooltip": "对当前的URL生成一个二维码",
-	"quickresponse-title": "这是您的二维码！"
+	"quickresponse-desc": "对当前页面的URL生成一个QR码",
+	"quickresponse-text": "QR码",
+	"quickresponse-tooltip": "对当前的URL生成一个QR码",
+	"quickresponse-title": "这是您的QR码！"
 }
