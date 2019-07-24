@@ -1,9 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Chrumps"
+			"Chrumps",
+			"Railfail536"
 		]
 	},
+	"quickresponse-desc": "Generuje kod QR dla adresu URL aktualnej strony",
 	"quickresponse-text": "Kod QR",
+	"quickresponse-tooltip": "Generuj kod QR dla aktualnego adresu URL",
 	"quickresponse-title": "Oto twój kod QR!"
 }
