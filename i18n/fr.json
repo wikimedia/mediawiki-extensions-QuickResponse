@@ -2,11 +2,12 @@
 	"@metadata": {
 		"authors": [
 			"Gomoko",
-			"Sherbrooke"
+			"Sherbrooke",
+			"Thibaut120094"
 		]
 	},
 	"quickresponse-desc": "Génère un code QR pour l’URL de la page actuelle",
 	"quickresponse-text": "Code QR",
 	"quickresponse-tooltip": "Générer un code QR pour l’URL actuelle",
-	"quickresponse-title": "Voici votre code QR !"
+	"quickresponse-title": "Voici votre code QR !"
 }
