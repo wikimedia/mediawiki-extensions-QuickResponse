@@ -21,7 +21,7 @@ $wgResourceModules[ 'QuickResponse' ] = array(
                        'resources/jquery.qrcode.js',
                        'resources/quickresponse.js'
                        ),
-    'dependencies' =>  'jquery.ui.dialog',
+    'dependencies' =>  'jquery.ui',
     'messages' => array('quickresponse-desc',
                         'quickresponse-text',
                         'quickresponse-title',
