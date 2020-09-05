@@ -1,5 +1,3 @@
-/*jshint browser: true */
- 
 ( function ( mw, $ ) {
     'use strict';
  
