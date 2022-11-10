@@ -1,0 +1,47 @@
+{
+	"name": "QuickResponse",
+	"version": "0.4.0",
+	"author": "Konarak Ratnakar",
+	"url": "https://www.mediawiki.org/wiki/Extension:QuickResponse",
+	"descriptionmsg": "quickresponse-desc",
+	"license-name": "MIT",
+	"type": "other",
+	"requires": {
+		"MediaWiki": ">= 1.35.0"
+	},
+	"MessagesDirs": {
+		"QuickResponse": [
+			"i18n"
+		]
+	},
+	"AutoloadClasses": {
+		"QuickResponseHooks": "src/QuickResponseHooks.php"
+	},
+	"ResourceModules": {
+		"ext.QuickResponse": {
+			"scripts": [
+				"resources/qrcode.js",
+				"resources/jquery.qrcode.js",
+				"resources/quickresponse.js"
+			],
+			"dependencies": [
+				"jquery.ui",
+				"mediawiki.util"
+			],
+			"messages": [
+				"quickresponse-desc",
+				"quickresponse-text",
+				"quickresponse-title",
+				"quickresponse-tooltip"
+			]
+		}
+	},
+	"ResourceFileModulePaths": {
+		"localBasePath": "",
+		"remoteExtPath": "QuickResponse"
+	},
+	"Hooks": {
+		"BeforePageDisplay": "QuickResponseHooks::onBeforePageDisplay"
+	},
+	"manifest_version": 2
+}
