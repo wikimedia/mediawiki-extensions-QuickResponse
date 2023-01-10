@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Eleassar"
+		]
+	},
+	"quickresponse-desc": "Ustvari kodo QR za URL za trenutno stran",
+	"quickresponse-text": "Koda QR",
+	"quickresponse-tooltip": "Ustvari kodo QR za trenutni URL",
+	"quickresponse-title": "Tu je vaša koda QR!"
+}
