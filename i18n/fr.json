@@ -3,11 +3,12 @@
 		"authors": [
 			"Gomoko",
 			"Sherbrooke",
-			"Thibaut120094"
+			"Thibaut120094",
+			"Verdy p"
 		]
 	},
 	"quickresponse-desc": "Génère un code QR pour l’URL de la page actuelle",
 	"quickresponse-text": "Code QR",
 	"quickresponse-tooltip": "Générer un code QR pour l’URL actuelle",
-	"quickresponse-title": "Voici votre code QR !"
+	"quickresponse-title": "Voici votre code QR !"
 }
