@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Nokeoo"
+		]
+	},
+	"quickresponse-desc": "Sugeneruoja QR kodą dabartinio puslapio URL adresui",
+	"quickresponse-text": "QR kodas",
+	"quickresponse-tooltip": "Sugeneruoti dabartinio URL QR kodą",
+	"quickresponse-title": "Štai jūsų QR kodas!"
+}
