@@ -3,11 +3,12 @@
 		"authors": [
 			"Chrumps",
 			"Rail",
-			"Railfail536"
+			"Railfail536",
+			"PanWor"
 		]
 	},
 	"quickresponse-desc": "Generuje kod QR dla adresu URL aktualnej strony",
 	"quickresponse-text": "Kod QR",
 	"quickresponse-tooltip": "Generuj kod QR dla aktualnego adresu URL",
-	"quickresponse-title": "Oto twój kod QR!"
+	"quickresponse-title": "Oto Twój kod QR!"
 }
