@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Wizzard"
+		]
+	},
+	"quickresponse-desc": "Generuje QR kód pre URL aktuálnej stránky",
+	"quickresponse-text": "QR kód",
+	"quickresponse-tooltip": "Vygenerovať QR kód pre aktuálnu URL",
+	"quickresponse-title": "Tu je váš QR kód!"
+}
